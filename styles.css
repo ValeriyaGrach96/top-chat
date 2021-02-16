@@ -129,6 +129,7 @@ main {
 section header {
   display: flex;
   flex-direction: column;
+  margin-bottom: 10px;
 }
 .row-chats {
   flex: 1;
